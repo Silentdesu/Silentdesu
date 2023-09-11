@@ -4,4 +4,6 @@
 
   <p align="center">
     <a href="https://www.youtube.com/playlist?list=PLWJiS5Gmt1c-L_V_DtqAuZVl_3GWmMY9L">PORTFOLIO</a>
+     ·
+    <a href="https://www.linkedin.com/in/ilyas-sadyrov-895163206/">LinkedIn</a>
   <p/>
